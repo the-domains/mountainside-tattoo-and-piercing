@@ -1,6 +1,6 @@
 name: Mountainside Tattoo and Piercing
 favicon: null
-layout_spectrum: 0.9358
+layout_spectrum: 1
 typography_spectrum: 0.15014802967198193
 title: Mountainside Tattoo and Piercing
 cta:
@@ -22,8 +22,8 @@ color:
     - '#ff0013'
     - '#929292'
     - '#545454'
-  brandStrength: 0.8441848340444267
-  lightness: 0.6926749716512859
-  saturation: 0.44416174991056323
-  rhythmicContrast: 0.19783514877781272
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
